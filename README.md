@@ -1,4 +1,4 @@
-# Caricias de mar profundo
+# Caricias de mar profundo, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Caricias de mar profundo |
+| **Title** | Caricias de mar profundo, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricias-de-mar-profundo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Caricias de mar profundo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-de-mar-profundo/) |
+| **Get License** | [Get License For Caricias de mar profundo, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-de-mar-profundo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Luces de Madrid, brillando para ti
+> Baby, esta noche la calle es para ti
+> Me acerco despacio, te siento latir
+> Tú y yo perdimos el miedo a sentir
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `2829bfd87cc9a88297d5d46b0e4409e89d90d0cdfdb74274d49c33fd72c78eb0` |
+| **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
